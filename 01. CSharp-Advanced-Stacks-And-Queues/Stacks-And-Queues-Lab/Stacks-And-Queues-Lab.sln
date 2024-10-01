@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-ReverseStr", "1-ReverseStr\1-ReverseStr.csproj", "{A3218A1F-2431-4958-AF07-F10EC7E00007}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-ReverseStr", "1-ReverseStr\1-ReverseStr.csproj", "{A3218A1F-2431-4958-AF07-F10EC7E00007}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-StackSum", "2-StackSum\2-StackSum.csproj", "{E0059A81-91DA-4EA0-A120-BC9140A4D9ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-StackSum", "2-StackSum\2-StackSum.csproj", "{E0059A81-91DA-4EA0-A120-BC9140A4D9ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-SimpleCalc", "3-SimpleCalc\3-SimpleCalc.csproj", "{D74A587F-C1B0-43B5-B577-F46B479D6614}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-SimpleCalc", "3-SimpleCalc\3-SimpleCalc.csproj", "{D74A587F-C1B0-43B5-B577-F46B479D6614}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-MatchBrcket", "4-MatchBrcket\4-MatchBrcket.csproj", "{6008A0E9-E2F4-4358-9405-00A3C593A2B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{D74A587F-C1B0-43B5-B577-F46B479D6614}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D74A587F-C1B0-43B5-B577-F46B479D6614}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D74A587F-C1B0-43B5-B577-F46B479D6614}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6008A0E9-E2F4-4358-9405-00A3C593A2B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6008A0E9-E2F4-4358-9405-00A3C593A2B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6008A0E9-E2F4-4358-9405-00A3C593A2B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6008A0E9-E2F4-4358-9405-00A3C593A2B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
