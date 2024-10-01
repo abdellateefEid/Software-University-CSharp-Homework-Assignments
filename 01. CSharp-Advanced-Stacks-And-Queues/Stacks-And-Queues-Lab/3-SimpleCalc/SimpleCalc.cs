@@ -1,6 +1,6 @@
-﻿namespace _1_ReverseStr
+﻿namespace _3_SimpleCalc
 {
-    internal class Program
+    internal class SimpleCalc
     {
         static void Main(string[] args)
         {
