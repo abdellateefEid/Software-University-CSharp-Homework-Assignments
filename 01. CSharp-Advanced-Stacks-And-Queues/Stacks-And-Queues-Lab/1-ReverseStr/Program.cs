@@ -1,4 +1,4 @@
-﻿namespace Stacks_And_Queues_Lab
+﻿namespace _1_ReverseStr
 {
     internal class Program
     {

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks-And-Queues-Lab", "Stacks-And-Queues-Lab\Stacks-And-Queues-Lab.csproj", "{E4395B2F-9ABE-4CA0-950C-3C8309600965}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-ReverseStr", "1-ReverseStr\1-ReverseStr.csproj", "{A3218A1F-2431-4958-AF07-F10EC7E00007}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E4395B2F-9ABE-4CA0-950C-3C8309600965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E4395B2F-9ABE-4CA0-950C-3C8309600965}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E4395B2F-9ABE-4CA0-950C-3C8309600965}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E4395B2F-9ABE-4CA0-950C-3C8309600965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3218A1F-2431-4958-AF07-F10EC7E00007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3218A1F-2431-4958-AF07-F10EC7E00007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3218A1F-2431-4958-AF07-F10EC7E00007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3218A1F-2431-4958-AF07-F10EC7E00007}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
