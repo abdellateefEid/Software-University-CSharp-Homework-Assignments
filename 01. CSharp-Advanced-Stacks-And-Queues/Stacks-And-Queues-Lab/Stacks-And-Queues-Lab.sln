@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-SimpleCalc", "3-SimpleCal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-MatchBrcket", "4-MatchBrcket\4-MatchBrcket.csproj", "{6008A0E9-E2F4-4358-9405-00A3C593A2B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintEvenNums", "PrintEvenNums\PrintEvenNums.csproj", "{7BD777A0-B1D8-415A-A87F-C1328A62DDAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{6008A0E9-E2F4-4358-9405-00A3C593A2B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6008A0E9-E2F4-4358-9405-00A3C593A2B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6008A0E9-E2F4-4358-9405-00A3C593A2B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BD777A0-B1D8-415A-A87F-C1328A62DDAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD777A0-B1D8-415A-A87F-C1328A62DDAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD777A0-B1D8-415A-A87F-C1328A62DDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD777A0-B1D8-415A-A87F-C1328A62DDAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
