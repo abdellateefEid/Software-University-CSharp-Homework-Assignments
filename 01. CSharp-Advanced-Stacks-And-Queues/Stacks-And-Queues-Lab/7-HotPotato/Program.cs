@@ -10,6 +10,7 @@
 
             int toss = int.Parse(Console.ReadLine());
 
+            Stack<int> ss = new Stack<int>(10);
 
 
             CircularLinkedList<string> children = new CircularLinkedList<string>();

@@ -10,6 +10,7 @@
 
             string input = Console.ReadLine().ToLower();
 
+
             while (input != "end")
             {
                 if (input == "paid")

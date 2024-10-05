@@ -12,7 +12,6 @@
             {
                 stack.Push(num);
             }
-
             Console.WriteLine("enter your commands: ");
 
 
@@ -42,6 +41,7 @@
                                 count--;
                             }
                         }
+
                         break;
                     case "end":
                         int sum = 0;
